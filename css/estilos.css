@@ -1,0 +1,54 @@
+body {
+    font-family: 'Poppins';font-size: 22px;
+}
+
+
+
+.titulo{
+    font-size: 33px;
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+  .navbar {
+    background-color: #97c071;
+    margin: 2rem;
+  }
+
+
+  .navbar li {
+    font-size: 17px;
+    color: rgb(61, 61, 61);
+    padding: 2rem;
+  }
+
+.col-auto{
+    display: flex;
+    float: right;
+    padding: 2rem;
+}
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  header .tote {
+    height: 545px;
+  }
+  
+  .masvendidos {
+    height: 1900px;
+  }
+
+  .masvendidos h2 {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    color: #6e6939;
+  }
+
+ 
