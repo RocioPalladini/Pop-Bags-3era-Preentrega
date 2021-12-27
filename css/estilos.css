@@ -70,4 +70,29 @@ body {
       text-align: center;
   }
 
+  .masproductos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+   }
+
+  .boton{
+    padding: 1rem;
+    background-color: rgb(240, 231, 215);
+    border-radius: 10px;
+    border: 1px solid black;
+    }
+    a:hover{
+        color: black;
+    }
+
+    .linkproductos{
+        list-style: none;
+        text-decoration: none;
+        color: black;
+    }
+
+
+
 
